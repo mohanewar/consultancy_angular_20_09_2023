@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/mohan-mart",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
